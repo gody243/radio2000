@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/radio2000/static/css/main.29ba27c4.css",
+    "main.js": "/radio2000/static/js/main.ffbdc9c4.js",
+    "index.html": "/radio2000/index.html",
+    "main.29ba27c4.css.map": "/radio2000/static/css/main.29ba27c4.css.map",
+    "main.ffbdc9c4.js.map": "/radio2000/static/js/main.ffbdc9c4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29ba27c4.css",
+    "static/js/main.ffbdc9c4.js"
+  ]
+}
